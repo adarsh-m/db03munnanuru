@@ -17,3 +17,4 @@ var router = express.Router();
 module.exports = router;
 /* GET detail mobile page */ 
 router.get('/detail', mobile_controlers.mobile_view_one_Page); 
+
